@@ -1,0 +1,11 @@
+hello
+
+this is a 3d graphics demo for rotating 3-space
+
+current features:
+- x, y, z axes and origin
+- drawing a coordinate point (x, y, z) and connecting two via line segment
+- rotating space along axes:
+  - w, s for x axis (red)
+  - a, d for y axis (green)
+  - left, right arrows for z axis (blue)
